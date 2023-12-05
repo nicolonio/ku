@@ -12,7 +12,7 @@ Spara också gärna den här sidan som ett bokmärke, så du lätt hittar den ig
 * [Alltid hos mig](#alltid-hos-mig)
 * [Du vet väl om att du är värdefull](#du-vet-väl-om-att-du-är-värdefull)
 * [Glory](#glory)
-* [Herrens bön](#herrens-bön)
+* [Herrens bön på fyra språk](#herrens-bön-på-fyra-språk)
 * [Hallelujah](#hallelujah)
 
 ##### Alltid hos mig  
