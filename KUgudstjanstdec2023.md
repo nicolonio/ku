@@ -123,7 +123,7 @@ ett sprucket men ett vackert ”hallelujah”.
 *Hallelujah, hallelujah,*  
 *hallelujah, hallelujah!*
 
-Och alla drömmar vi har drömmmmt,  
+Och alla drömmar vi har drömt,  
 det vackra som vi nästan glömt  
 finns kvar och vi kan inte längre ljuga.  
 Du ropar och man hör din röst,  
