@@ -8,6 +8,16 @@
 <p><em>Glöm inte att sätta din telefon på ljudlöst!</em> 🤫<br>
 Spara också gärna den här sidan som ett bokmärke, så du lätt hittar den igen. 😃</p>
 <h3 id="välkomna">Välkomna!</h3>
+<ul>
+<li><a href="#alltid-hos-mig">Alltid hos mig</a></li>
+<li><a href="#du-vet-val-om-att-du-ar-vardefull">Du vet väl om att du är värdefull</a></li>
+<li><a href="#glory">Glory</a></li>
+<li><a href="#herrens-bon-svenska">Herrens bön, svenska</a></li>
+<li><a href="#herrens-bon-nordsamiska">Herrens bön, nordsamiska</a></li>
+<li><a href="#herrens-bon-meankieli">Herrens bön, meänkieli</a></li>
+<li><a href="#herrens-bon-finska">Herrens bön, finska</a></li>
+<li><a href="#hallelujah">Hallelujah</a></li>
+</ul>
 <h5 id="alltid-hos-mig">Alltid hos mig</h5>
 <p>Stiger jag till himmelen,<br>
 finns du med mig där.<br>
