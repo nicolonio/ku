@@ -2,7 +2,7 @@
 
 # Gudstjänst med Kyrkans Unga
 
-**Kiruna kyrka, 5/12, 18.00**
+**Kiruna kyrka, 5/12, kl 18.00**
 
 *Glöm inte att sätta din telefon på ljudlöst!* 🤫  
 Spara också gärna den här sidan som ett bokmärke, så du lätt hittar den igen. 😃
