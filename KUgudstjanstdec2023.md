@@ -10,9 +10,9 @@ Spara också gärna den här sidan som ett bokmärke, så du lätt hittar den ig
 <h3 id="välkomna">Välkomna!</h3>
 <ul>
 <li><a href="#alltid-hos-mig">Alltid hos mig</a></li>
-<li><a href="#du-vet-val-om-att-du-ar-vardefull">Du vet väl om att du är värdefull</a></li>
+<li><a href="#du-vet-v%C3%A4l-om-att-du-%C3%A4r-v%C3%A4rdefull">Du vet väl om att du är värdefull</a></li>
 <li><a href="#glory">Glory</a></li>
-<li><a href="#herrens-bon">Herrens bön</a></li>
+<li><a href="#herrens-b%C3%B6n">Herrens bön</a></li>
 <li><a href="#hallelujah">Hallelujah</a></li>
 </ul>
 <h5 id="alltid-hos-mig">Alltid hos mig</h5>
