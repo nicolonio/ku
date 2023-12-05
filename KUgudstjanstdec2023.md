@@ -87,40 +87,39 @@ i evighet.
 Amen.  
 
 
-Áhčči min, don guhte leat almmis.
-Basuhuvvos du namma.
-Bohtos du riika.
-Šaddos du dáhttu, mo almmis nu maiddái eatnama alde.
-Atte midjiide odne min beaivválaš láibámet.
-Ja atte midjiide min suttuideamet
-ándagassii nugo maiddái miige ándagassii addit min velggolaččaidasamet.
-Alege doalvvo min geahččalussii, muhto beastte min bahás eret.
-Dasgo du lea riika ja fápmu ja gudni agálasvuhtii.
-Ámen.
+Áhčči min, don guhte leat almmis.  
+Basuhuvvos du namma.  
+Bohtos du riika.  
+Šaddos du dáhttu, mo almmis nu maiddái eatnama alde.  
+Atte midjiide odne min beaivválaš láibámet.  
+Ja atte midjiide min suttuideamet ándagassii nugo maiddái miige ándagassii addit min velggolaččaidasamet.  
+Alege doalvvo min geahččalussii, muhto beastte min bahás eret.  
+Dasgo du lea riika ja fápmu ja gudni agálasvuhtii.  
+Ámen.  
 
-Isa meitän,
-joka olet taihvaissa.
-Pyhitetty olkhoon sinun nimesti.
-Tulkhoon sinun valtakuntasti.
-Tapahtukhoon sinun tahtosti niin taihvaassa ko maan päälä.
-Anna meile tänä päivänä meän jokapäivänen leipä.
-Ja anna meile syntimme antheeksi, niinku metki annama antheeksi niile jokka oon meitä vasthaan tehneet väärin.
-Äläkä joha meitä koetuksheen, mutta pelasta meät pahasta.
-Sinun oon valtakunta.
-Sinun oon voima ja kunnia ijänkaikkisesti.
-Ammen.
+Isa meitän,  
+joka olet taihvaissa.  
+Pyhitetty olkhoon sinun nimesti.  
+Tulkhoon sinun valtakuntasti.  
+Tapahtukhoon sinun tahtosti niin taihvaassa ko maan päälä.  
+Anna meile tänä päivänä meän jokapäivänen leipä.  
+Ja anna meile syntimme antheeksi, niinku metki annama antheeksi niile jokka oon meitä vasthaan tehneet väärin.  
+Äläkä joha meitä koetuksheen, mutta pelasta meät pahasta.  
+Sinun oon valtakunta.  
+Sinun oon voima ja kunnia ijänkaikkisesti.  
+Ammen.  
 
-Isä meidän,
-joka olet taivaissa
-Pyhitetty olkoon sinun nimesi.
-Tulkoon sinun valtakuntasi.
-Tapahtukoon sinun tahtosi, myös maan päällä niin kuin taivaassa.
-Anna meille tänä päivänä meidän jokapäiväinen leipämme.
-Ja anna meille meidän syntimme anteeksi, niin kuin mekin anteeksi annamme niille, jotka ovat meitä vastaan rikkoneet.
-Äläkä saata meitä kiusaukseen, vaan päästä meidät pahasta.
-Sillä sinun on valtakunta
-ja voima ja kunnia iankaikkisesti.
-Aamen.
+Isä meidän,  
+joka olet taivaissa.  
+Pyhitetty olkoon sinun nimesi.  
+Tulkoon sinun valtakuntasi.  
+Tapahtukoon sinun tahtosi, myös maan päällä niin kuin taivaassa.  
+Anna meille tänä päivänä meidän jokapäiväinen leipämme.  
+Ja anna meille meidän syntimme anteeksi, niin kuin mekin anteeksi annamme niille, jotka ovat meitä vastaan rikkoneet.  
+Äläkä saata meitä kiusaukseen, vaan päästä meidät pahasta.  
+Sillä sinun on valtakunta  
+ja voima ja kunnia iankaikkisesti.  
+Aamen.  
 
 ##### Hallelujah
 Det finns en sång som säger allt,  
